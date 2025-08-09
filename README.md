@@ -1,4 +1,4 @@
-# 🏎️ Neon Racer - High-Speed Racing Game
+# 🏎️ Crash Racer - High-Speed Racing Game
 
 A thrilling 3D-lane racing game built with React, TypeScript, and HTML5 Canvas. Race through neon-lit highways, avoid obstacles, collect power-ups, and achieve the highest score!
 
