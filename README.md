@@ -2,7 +2,7 @@
 
 A thrilling 3D-lane racing game built with React, TypeScript, and HTML5 Canvas. Race through neon-lit highways, avoid obstacles, collect power-ups, and achieve the highest score!
 
-![Game Preview](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Neon+Racer+Preview)
+![Game Preview](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Neon+Racer+Preview](https://dheerajgaurracinggame.netlify.app/))
 
 ## 🎮 Game Features
 
