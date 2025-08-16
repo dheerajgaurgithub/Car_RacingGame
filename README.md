@@ -35,15 +35,13 @@ A modern, responsive car racing game built with Next.js, React, and TypeScript. 
 
 ## 🚀 Getting Started
 
-### Prerequisites
-- Node.js 18+ 
-- npm or yarn
+
 
 ### Installation
 
 1. **Clone the repository**
 \`\`\`bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/dheerajgaurgithub/Car_RacingGame)
 cd car-racing-game
 \`\`\`
 
